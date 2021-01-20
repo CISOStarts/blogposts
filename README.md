@@ -47,3 +47,38 @@ Sam is constatly sharing his methodology and techniques being used to find Secur
 
 ## James Kettle
 [@albinowax](https://twitter.com/albinowax)
+
+## Daniel Miessler
+
+[@DanielMiessler](https://twitter.com/DanielMiessler)
+
+## Shubham Shah
+[@infosec_au](https://twitter.com/infosec_au)
+
+## Michael Skelton
+[@codingo](https://twitter.com/codingo)
+
+## Somdev Sangwan
+[@S0md3v](https://twitter.com/s0md3v)
+
+## Tom Hudson
+[@orange_8361](https://twitter.com/orange_8361)
+
+## Harsh Jaiswal
+[@rootxharsh](https://twitter.com/rootxharsh)
+
+## Sandeep Singh
+[@emgeekboy](https://twitter.com/emgeekboy)
+
+## Youssef Sammouda
+[@Samm0uda](https://twitter.com/Samm0uda)
+
+## Gareth Heyes
+[@GarethHeyes](https://twitter.com/GarethHeyes)
+
+## Harsh Bothra
+[@Harshbothra_](https://twitter.com/Harshbothra_)
+
+## Steven Tseeley (mr_me)
+[@steventseeley](https://twitter.com/steventseeley)
+
