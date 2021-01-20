@@ -42,4 +42,8 @@ Sam is constatly sharing his methodology and techniques being used to find Secur
 
 ![samcurry](https://github.com/naglienso/blogposts/blob/main/images/Samcurry.png)
 
+## Zseano
+[@zseano](https://twitter.com/zseano)
 
+## James Kettle
+[@albinowax](https://twitter.com/albinowax)
