@@ -1,7 +1,4 @@
-# blogposts
 
-
-## Top 21 AppSec profiles to follow on twitter in 2021!
 
 ## Fredrik Alexandersson
 [@stokfredrik](https://twitter.com/stokfredrik)
@@ -48,6 +45,7 @@ Sam is constatly sharing his methodology and techniques being used to find Secur
 ## James Kettle
 [@albinowax](https://twitter.com/albinowax)
 
+James is the Director of Research at PortSwigger Web Security, 
 ## Daniel Miessler
 
 [@DanielMiessler](https://twitter.com/DanielMiessler)
